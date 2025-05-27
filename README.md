@@ -1,5 +1,3 @@
-
-<!DOCTYPE html>
 <html lang="mr">
 <head>
     <meta charset="UTF-8">
